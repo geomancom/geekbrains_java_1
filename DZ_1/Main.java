@@ -1,3 +1,8 @@
+/*
+* Домашка № 1
+* Борис M.
+* */
+
 package DZ_1;
 
 public class Main {
