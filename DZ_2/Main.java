@@ -1,3 +1,8 @@
+/*
+* Домашка № 2
+* Борис M.
+* */
+
 package DZ_2;
 
 import java.util.Arrays;
