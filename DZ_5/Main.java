@@ -31,7 +31,7 @@ public class Main {
 
         int i = 0;
         while (i < persArray.length) {
-            if (persArray[i].age > 39) {
+            if (persArray[i].age > 40) {
                 persArray[i].ptint_info();
 
             }
